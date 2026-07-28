@@ -1,0 +1,2 @@
+# Zero dependencies required. 
+# This file simply tells Railway's build system (Nixpacks) that this is a Python project.
